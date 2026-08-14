@@ -1,0 +1,12 @@
+{
+  "name": "adelt-3-pages-react",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {"dev":"vite","build":"vite build","preview":"vite preview"},
+  "dependencies": {
+    "react":"latest","react-dom":"latest","react-router-dom":"latest",
+    "vite":"latest","@vitejs/plugin-react":"latest",
+    "tailwindcss":"latest","@tailwindcss/vite":"latest"
+  }
+}
